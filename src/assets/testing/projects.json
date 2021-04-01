@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "title": "Manufactured Home",
+    "description": "This is the proposed floorplan for client's home."
+  },
+  {
+    "id": "2",
+    "title": "Entry Stairs",
+    "description": "Stairs from concrete platform to front porch. Need Detail for concrete platform and steps from driveway to platform."
+  },
+  {
+    "id": "3",
+    "title": "Detail for Entry Stairs Platform",
+    "description": "Isometric detail drawing for steps and platform."
+  }
+]

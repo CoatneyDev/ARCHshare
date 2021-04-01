@@ -1,0 +1,14 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>projects</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+<ion-card *ngFor="let project of projects | async">
+
+  <ion-title>{{ project.title }}</ion-title>
+  <ion-text>{{ project.description }}</ion-text>
+
+</ion-card>
+</ion-content>
